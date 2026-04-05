@@ -198,4 +198,3 @@ Successor of our work from the JRC team can be found at: https://code.europa.eu/
 # 📊 GitHub Stats
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
