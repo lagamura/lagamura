@@ -90,47 +90,47 @@ Here is a curated list of the most meaningful open-source work that stems from y
 
 ### ✅ **Copernicus / CDSE / Geospatial Tooling**
 Contributions across internal-but-open tooling such as:
+#### **VITO - Open Source Projects:**
 
 - **LCFM product suite pipelines** (To be open-sourced upon completition of the Project) [LCFM Release](https://dataspace.copernicus.eu/news/2025-6-26-copernicus-land-monitoring-service-launches-new-lcfm-product-suite)
-- **List of open-source projects contributed:**
+
+#### **List of open-source projects contributed:**
 - https://github.com/sympy/sympy
 - https://github.com/TIMESAT/TIMESAT-CLI
 - https://github.com/kynan/nbstripout
 - https://github.com/fsspec/universal_pathlib
 - https://github.com/cogeotiff/rio-cogeo
 
-- Reporting Issues & Answering Questions at:
+#### **Reporting Issues & Answering Questions at:**
 - https://github.com/OSGeo/gdal
 - https://github.com/rasterio/rasterio
 - https://github.com/astral-sh/uv
 
-#### Shield Showcase ####
-## 🔧 Open‑Source Contributions (Badges)
+#### **Shield Showcase** ####
+### ✅ Open-Source Project Badges
 
-### 🌍 Copernicus / CDSE / Geospatial Tooling
-
-**LCFM Product Suite (Release Announcement)**  
-[https://img.shields.io/badge/LCFM%20Product%20Suite-Release-blue](https://dataspace.copernicus.eu/news/2025-6-26-copernicus-land-monitoring-service-launches-new-lcfm-product-suite)
-
+#### Copernicus / CDSE / Geospatial Tooling
+[![LCFM Product Suite](https://img.shields.io/badge/LCFM%20Product%20Suite-Release-blue)](https://dataspace.copernicus.eu/news/2025-6-26-copernicus-land-monitoring-service-launches-new-lcfm-product-suite)
 
 ---
 
 ### ✅ Open‑Source Projects Contributed To
+<p align="center">
 
-[https://img.shields.io/badge/SymPy-Contributor-green](https://github.com/sympy/sympy)
-[https://img.shields.io/badge/TIMESAT--CLI-Contributor-blueviolet](https://github.com/TIMESAT/TIMESAT-CLI)
-[https://img.shields.io/badge/nbstripout-Contributor-orange](https://github.com/kynan/nbstripout)
-[https://img.shields.io/badge/universal__pathlib-Contributor-lightgrey](https://github.com/fsspec/universal_pathlib)
-[https://img.shields.io/badge/rio--cogeo-Contributor-yellowgreen](https://github.com/cogeotiff/rio-cogeo)
+  [![SymPy](https://img.shields.io/badge/SymPy-Contributor-green)](https://github.com/sympy/sympy)  
+  [![TIMESAT-CLI](https://img.shields.io/badge/TIMESAT--CLI-Contributor-blueviolet)](https://github.com/TIMESAT/TIMESAT-CLI)  
+  [![nbstripout](https://img.shields.io/badge/nbstripout-Contributor-orange)](https://github.com/kynan/nbstripout)  
+  [![universal_pathlib](https://img.shields.io/badge/universal__pathlib-Contributor-lightgrey)](https://github.com/fsspec/universal_pathlib)  
+  [![rio-cogeo](https://img.shields.io/badge/rio--cogeo-Contributor-yellowgreen)](https://github.com/cogeotiff/rio-cogeo)
 
-
+</p>
 ---
 
 ### ✅ Reporting Issues & Supporting Discussions
 
-[https://img.shields.io/badge/GDAL-Issues%20%2F%20Discussions-blue](https://github.com/OSGeo/gdal)
-[https://img.shields.io/badge/Rasterio-Issues%20%2F%20Discussions-green](https://github.com/rasterio/rasterio)
-[https://img.shields.io/badge/uv-Issues%20%2F%20Discussions-orange](https://github.com/astral-sh/uv)
+[![GDAL](https://img.shields.io/badge/GDAL-Issues%20%2F%20Discussions-blue)](https://github.com/OSGeo/gdal)  
+[![Rasterio](https://img.shields.io/badge/Rasterio-Issues%20%2F%20Discussions-green)](https://github.com/rasterio/rasterio)  
+[![uv](https://img.shields.io/badge/uv-Issues%20%2F%20Discussions-orange)](https://github.com/astral-sh/uv)
 
 ---
 
@@ -191,12 +191,15 @@ Successor of our work from the JRC team can be found at: https://code.europa.eu/
 **Geospatial:** GDAL, Rasterio, Sentinel‑2, GeoTIFF, JP2, NetCDF  
 **Cloud:** AWS EC2/S3  
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=%2300DC82) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=gdal&logoColor=white) ![Rasterio](https://img.shields.io/badge/Rasterio-1C4587?style=for-the-badge&logoColor=white) ![Sentinel-2](https://img.shields.io/badge/Sentinel--2-003088?style=for-the-badge&logo=satellite&logoColor=white) ![GeoTIFF](https://img.shields.io/badge/GeoTIFF-4B8BBE?style=for-the-badge&logoColor=white) ![NetCDF](https://img.shields.io/badge/NetCDF-2E6DA4?style=for-the-badge&logoColor=white)
+
 ---
 
-# 📊 GitHub Stats (Optional)
+# 📊 GitHub Stats
 
-Add these if you want automatic stats:
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lagamura)](https://github.com/lagamura/github-readme-stats)
 
-```md
+<!-- ```md
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagamura&layout=compact)
 ![Stelios' GitHub stats](https://github-readme-stats.vercel.app/api?username=lagamura&show_icons=true)
+``` -->
