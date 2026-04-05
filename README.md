@@ -107,30 +107,30 @@ Contributions across internal-but-open tooling such as:
 #### Shield Showcase ####
 ## 🔧 Open‑Source Contributions (Badges)
 
-### ✅ Copernicus / CDSE / Geospatial Tooling
+### 🌍 Copernicus / CDSE / Geospatial Tooling
 
 **LCFM Product Suite (Release Announcement)**  
-https://img.shields.io/badge/LCFM%20Product%20Suite-Release-blue](https://dataspace.copernicus.eu/news/2025-6-26-copernicus-land-monitoring-service-launches-new-lcfm-product-suite)
+[https://img.shields.io/badge/LCFM%20Product%20Suite-Release-blue](https://dataspace.copernicus.eu/news/2025-6-26-copernicus-land-monitoring-service-launches-new-lcfm-product-suite)
 
 
 ---
 
 ### ✅ Open‑Source Projects Contributed To
 
-https://img.shields.io/badge/SymPy-Contributor-green](https://github.com/sympy/sympy)
-https://img.shields.io/badge/TIMESAT--CLI-Contributor-blueviolet](https://github.com/TIMESAT/TIMESAT-CLI)
-https://img.shields.io/badge/nbstripout-Contributor-orange](https://github.com/kynan/nbstripout)
-https://img.shields.io/badge/universal__pathlib-Contributor-lightgrey](https://github.com/fsspec/universal_pathlib)
-https://img.shields.io/badge/rio--cogeo-Contributor-yellowgreen](https://github.com/cogeotiff/rio-cogeo)
+[https://img.shields.io/badge/SymPy-Contributor-green](https://github.com/sympy/sympy)
+[https://img.shields.io/badge/TIMESAT--CLI-Contributor-blueviolet](https://github.com/TIMESAT/TIMESAT-CLI)
+[https://img.shields.io/badge/nbstripout-Contributor-orange](https://github.com/kynan/nbstripout)
+[https://img.shields.io/badge/universal__pathlib-Contributor-lightgrey](https://github.com/fsspec/universal_pathlib)
+[https://img.shields.io/badge/rio--cogeo-Contributor-yellowgreen](https://github.com/cogeotiff/rio-cogeo)
 
 
 ---
 
 ### ✅ Reporting Issues & Supporting Discussions
 
-https://img.shields.io/badge/GDAL-Issues%20%2F%20Discussions-blue](https://github.com/OSGeo/gdal)
-https://img.shields.io/badge/Rasterio-Issues%20%2F%20Discussions-green](https://github.com/rasterio/rasterio)
-https://img.shields.io/badge/uv-Issues%20%2F%20Discussions-orange](https://github.com/astral-sh/uv)
+[https://img.shields.io/badge/GDAL-Issues%20%2F%20Discussions-blue](https://github.com/OSGeo/gdal)
+[https://img.shields.io/badge/Rasterio-Issues%20%2F%20Discussions-green](https://github.com/rasterio/rasterio)
+[https://img.shields.io/badge/uv-Issues%20%2F%20Discussions-orange](https://github.com/astral-sh/uv)
 
 ---
 
